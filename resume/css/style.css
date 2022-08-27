@@ -1305,7 +1305,7 @@ header a.logo img {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    float: left;
+    float: right;
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
