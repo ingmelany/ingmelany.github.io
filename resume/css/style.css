@@ -990,7 +990,7 @@ header a.logo img {
     text-align: center;
 }
 .parallax-box i{
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     display: inline-block;
     margin-bottom: 35px;
     -webkit-transition: transform .3s ease-in-out;
@@ -1340,7 +1340,7 @@ header a.logo img {
     text-align: center;
     line-height: 45px;
     border-radius: 50px;
-    font-size: 17px;
+    font-size: 20px;
     margin: 0 10px 0 0;
     border: 1px solid transparent;
     -webkit-transition: background-color .2s ease-in-out;
@@ -1353,7 +1353,7 @@ header a.logo img {
 }
 
 .footer-social li a:hover{
-    background-color:#00bcd4;
+    background-color:rgb(52, 101, 164);
     color: #ffffff;
 }
 
